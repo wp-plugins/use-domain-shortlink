@@ -1,9 +1,9 @@
 === Use Domain Shortlink ===
 Contributors: RyanMurphy
-Tags: shortlink, twitter tool
+Tags: shortlink, twitter tools
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 0.1
+Stable tag: 1.0
 
 Use wp_get_shortlink() to send the site's internal short URL (i.e. http://domain.com/?p=1234) to twitter. Requires Twitter Tools.
 
