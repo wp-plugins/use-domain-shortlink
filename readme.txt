@@ -1,6 +1,6 @@
 === Use Domain Shortlink ===
 Contributors: RyanMurphy
-Tags: shortlink, twitter tool
+Tags: shortlink, twitter tools
 Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: 1.0
