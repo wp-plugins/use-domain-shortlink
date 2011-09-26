@@ -3,7 +3,7 @@
 Plugin Name: Use Domain Shortlink (for Twitter Tools)
 Plugin URI: http://2skewed.net/plugins/use-domain-shortlink/
 Description: Use wp_get_shortlink() to send the site's internal short URL (i.e. http://domain.com/?p=1234) to twitter. Requires Twitter Tools.
-Version: 1.1
+Version: 1.1.1
 Author: Ryan Murphy
 Author URI: http://2skewed.net
 */
