@@ -10,6 +10,8 @@ Use wp_get_shortlink() to send the site's internal short URL (i.e. http://domain
 == Description ==
 This plugin hooks into Twitter Tools to use the shortlink that your WordPress powered site already has internally to WordPress (the software). This allows you to keep your brand when tweeting, while not running into the 140 character limit (or at least, that's what we hope). Where is used to tweet the link as `http://your.domain.com/2010/04/this-is-some-funny-or-creative-title/`, it will instead use `http://your.domain.com/?p=1234`, where `1234` is the post's ID that is used internally.
 
+Comments, questions, suggestions? Get help and support at http://2skewed.net/support/forum/use-domain-shortlink/
+
 == Installation ==
 1. Upload the `Use Domain Shortlink` directory to your `wp-content/plugins/` directory. Alternately, search for 'use domain shortlink' on the Add New Plugin page, and click install.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
