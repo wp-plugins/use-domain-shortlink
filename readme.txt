@@ -3,12 +3,12 @@ Contributors: RyanMurphy
 Tags: shortlink, twitter tools, domain
 Requires at least: 3.0
 Tested up to: 3.4
-Stable tag: 1.1.2
+Stable tag: trunk
 
-Use wp_get_shortlink() to send the site's internal short URL (i.e. http://domain.com/?p=1234) to twitter. Requires Twitter Tools.
+Use Domain Shortlink is no longer needed as of Twitter Tools 3.0. See changelog for notes.
 
 == Description ==
-This plugin hooks into Twitter Tools to use the shortlink that your WordPress powered site already has internally to WordPress (the software). This allows you to keep your brand when tweeting, while not running into the 140 character limit (or at least, that's the goal). Where it used to tweet the link as `http://your.domain.com/2010/04/this-is-some-funny-or-creative-title/`, it will instead use `http://your.domain.com/?p=1234`, where `1234` is the post's ID that is used internally.
+Use Domain Shortlink is no longer needed as of Twitter Tools 3.0. See changelog for notes.
 
 Comments, questions, suggestions? Get help and support at http://wordpress.org/support/plugin/use-domain-shortlink
 
@@ -18,6 +18,11 @@ Comments, questions, suggestions? Get help and support at http://wordpress.org/s
 1. Enjoy blogging!
 
 == Changelog ==
+= 1.1.3 =
+* This release is to let users know that the plugin is no longer eneded as of Twitter Tools 3.0.
+* Use Domain Shortlink can be safely deleted.
+* Thank you for using it!
+* 
 = 1.1.2 =
 * Update support and plugin URLs.
 * Added links to admin notice.
@@ -34,4 +39,4 @@ Comments, questions, suggestions? Get help and support at http://wordpress.org/s
 * Initial release.
 
 == Upgrade Notice ==
-* There have been no functional changes to the plugin. Upgrading is not required at this time.
+* Use Domain Shortlink is no longer needed as of Twitter Tools 3.0. Please feel free to delete it, and thank you for using it!
